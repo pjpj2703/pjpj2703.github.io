@@ -24,10 +24,6 @@ const projects = [
       [
         "Outputs & evidence",
         "Prepared website performance reports and recommendations. Any institutional screenshots or reports need a public-sharing review before they are added here. No confidential institutional data is included in this version."
-      ],
-      [
-        "Interview recap",
-        "Situation: A university website serving prospective students. Task: Support understanding of traffic and navigation. Action: Analyze GA4 reports and Explore paths/funnels; review website content. Result: Reports, recommendations, and content-update support. Describe specific examples from approved work samples; do not claim an unverified increase in traffic or applications."
       ]
     ],
     "image": "assets/uno-campus.png",
@@ -57,10 +53,6 @@ const projects = [
       [
         "Results & supporting work",
         "Evaluated clicks, conversions, revenue, profit, and ROAS. Round-specific results and presentation files will be added after matching each figure to its original round and report."
-      ],
-      [
-        "Interview recap",
-        "Explain one campaign objective, a performance signal you noticed, the adjustment you made, and the result in the next round. Keep simulated outcomes clearly labeled and distinguish revenue from profit."
       ]
     ],
     "image": "assets/stukent-logo.jpg",
@@ -178,10 +170,6 @@ const projects = [
       [
         "Troubleshooting & limits",
         "Worked through availability-detection and HTTP-response issues. A failed request or temporary server error is not reliable evidence of stock status. The project is a learning tool and cannot guarantee that every short restock will be detected."
-      ],
-      [
-        "Interview recap",
-        "Focus on the problem you wanted to solve, how you used AI, what you personally tested, and a specific issue you helped investigate. Do not describe the code as independently written from scratch."
       ]
     ],
     "image": "assets/github-logo.svg",
