@@ -1,6 +1,33 @@
 // Edit project titles, descriptions, order, images, and sections here.
 const projects = [
   {
+    "title": "Dayward — E-commerce & SEO",
+    "type": "marketing",
+    "meta": "Personal portfolio project · Squarespace · November 2026",
+    "summary": "A fictional commuter bag brand brought to life through a Squarespace website, product storytelling, two blog articles, and on-page SEO settings.",
+    "tags": [
+      "Squarespace",
+      "On-page SEO",
+      "Content creation"
+    ],
+    "color": "#e6ebde",
+    "image": "assets/dayward/product.jpg",
+    "link": {
+      "href": "dayward.html",
+      "label": "View Dayward case study ↗"
+    },
+    "sections": [
+      [
+        "Overview & my role",
+        "Customized a Squarespace template for a fictional everyday carry brand. Developed brand and product copy with AI assistance, edited content, configured SEO settings, and reviewed desktop and mobile layouts."
+      ],
+      [
+        "Outputs & scope",
+        "Created three concept product pages, two blog articles, and supporting brand pages. Screenshots preserve the trial-site project; no traffic, ranking, or sales results were measured."
+      ]
+    ]
+  },
+  {
     "title": "SEO & Web Analytics Student Worker",
     "type": "marketing",
     "meta": "University of Nebraska at Omaha · Work experience · Oct–Dec 2025",
@@ -98,12 +125,12 @@ const projects = [
   {
     "title": "The Builder Foundation Logo",
     "type": "design",
-    "meta": "Course design project · Summer 2025",
-    "summary": "A mission-led logo connecting education, the construction industry, and opportunities for young people.",
+    "meta": "UNO course project · Selected as the foundation’s official logo",
+    "summary": "A mission-led logo connecting education and construction, selected by The Builder Foundation as its official logo and featured in a UNO news article.",
     "tags": [
       "Logo design",
-      "Concept development",
-      "Feedback"
+      "Client-selected design",
+      "UNO feature"
     ],
     "color": "#e9e1d5",
     "art": "word",
@@ -116,9 +143,23 @@ const projects = [
       [
         "Process & reflection",
         "I began by learning about The Builder Foundation’s mission, then translated its purpose into visual elements. Feedback helped me refine the design. This experience showed me that a meaningful logo communicates an organization’s story as well as looking visually appealing."
+      ],
+      [
+        "Selection & recognition",
+        "My design was selected as The Builder Foundation’s official logo. An October 5, 2026 UNO College of Business Administration article names me and documents the selection."
       ]
     ],
-    "image": "assets/project-4-cover.png"
+    "image": "assets/project-4-cover.png",
+    "link": {
+      "href": "https://www.unomaha.edu/college-of-business-administration/news/2026/10/service-learning.php",
+      "label": "Read the UNO article ↗"
+    },
+    "links": [
+      {
+        "href": "https://lnkd.in/p/g-HMTgpx",
+        "label": "View Melissa Glenn’s LinkedIn post ↗"
+      }
+    ]
   },
   {
     "title": "WFAA Logo",
